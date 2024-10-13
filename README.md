@@ -4,8 +4,13 @@ Mean Absolute Error (MAE): 24.220990018844603
 
 
 Root Mean Squared Error (RMSE): 36.63385626975057
+
+
 R² Score: 0.995415449142456
+
+
 Accuracy: 0.985
+
 
 **Classification Report:**
               precision    recall  f1-score   support
